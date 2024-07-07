@@ -10,7 +10,7 @@ import (
 
 	admin "github.com/yellowsky2000/pkg/service/proto"
 
-	pb "github.com/yellowsky2000/services/otp/proto"
+	pb "github.com/yellowsky2000/otp/proto"
 
 	pauth "github.com/yellowsky2000/pkg/auth"
 

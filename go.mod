@@ -1,4 +1,4 @@
-module github.com/yellowsky2000/services/otp
+module github.com/yellowsky2000/otp
 
 go 1.22.4
 

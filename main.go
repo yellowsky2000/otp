@@ -1,8 +1,8 @@
 package main
 
 import (
-	"otp/handler"
-	pb "otp/proto"
+	"github.com/yellowsky2000/otp/handler"
+	pb "github.com/yellowsky2000/otp/proto"
 
 	adminpb "github.com/yellowsky2000/pkg/service/proto"
 
